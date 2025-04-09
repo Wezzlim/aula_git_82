@@ -1,2 +1,4 @@
 A turma Java 82 é Nice!
 As aulas de Java começam depois de amanhã!
+a linha vai gerar um conflito local
+a linha vai gerar conflito
